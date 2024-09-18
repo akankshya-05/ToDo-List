@@ -12,6 +12,8 @@ for organizing daily activities.
  -Clear completed tasks
  
  -User-friendly interface
+
+ -Save the tasks
  
 # Technologies Used
  -HTML5
